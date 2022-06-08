@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+form {
+    color: white;
+}
+
+#submit-button {
+    background-color: grey;
+    color:white;
+}
+button {
+    background-color: grey;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
