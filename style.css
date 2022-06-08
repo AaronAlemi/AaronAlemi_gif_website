@@ -24,3 +24,7 @@ button {
 .hidden {
     display: none;
 }
+
+#gif-area {
+    align-items: baseline;
+}

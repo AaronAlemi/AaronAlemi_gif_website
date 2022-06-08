@@ -43,6 +43,7 @@ async function getResults(evt) {
 
     loadButton.classList.remove("hidden");
 
+    
     displayResults(apiFetchData.data);
 
 }
@@ -61,3 +62,4 @@ function showMore(evt) {
     getResults(evt);
 }
 
+// test change
