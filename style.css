@@ -16,3 +16,11 @@ form {
     background-color: grey;
     color:white;
 }
+button {
+    background-color: grey;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
